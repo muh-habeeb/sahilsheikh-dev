@@ -23,63 +23,104 @@
 
 <br/>
 
-
-
 <h3 align="center">Connect with me</h3>
 
-<style>
-.socials-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 14px;
-}
+<p align="center">
 
-.social-row {
-  display: flex;
-  justify-content: center;
-  gap: 14px;
-}
-
-.social-icon {
-  transition: 0.3s ease-in-out;
-}
-.social-icon:hover {
-  transform: scale(1.2);
-}
-</style>
-
-<div class="socials-wrapper">
   <!-- Row 1 -->
-  <div class="social-row">
-    <a href="https://linkedin.com/in/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-location/master/src/images/icons/Social/linked-in-alt.svg" height="32"/></a>
-    <a href="https://twitter.com/sahilsheikh_dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32"/></a>
-    <a href="https://instagram.com/sahilsheikh.dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"/></a>
-    <a href="https://fb.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32"/></a>
-    <a href="https://youtube.com/c/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32"/></a>
-    <a href="https://dev.to/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32"/></a>
-    <a href="https://hashnode.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="32"/></a>
-    <a href="https://medium.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="32"/></a>
-    <a href="https://dribbble.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="32"/></a>
-    <a href="https://behance.net/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="32"/></a>
-    <a href="https://discord.gg/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32"/></a>
-    <a href="https://stackoverflow.com/users/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="32"/></a>
-  </div>
+  <a href="https://linkedin.com/in/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://twitter.com/sahilsheikh_dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://instagram.com/sahilsheikh.dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://fb.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://youtube.com/c/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://dev.to/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://hashnode.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://medium.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://dribbble.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://behance.net/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://discord.gg/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <br/>
 
   <!-- Row 2 -->
-  <div class="social-row">
-    <a href="https://kaggle.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32"/></a>
-    <a href="https://codesandbox.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="32"/></a>
-    <a href="https://codepen.io/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="32"/></a>
-    <a href="https://leetcode.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32"/></a>
-    <a href="https://codeforces.com/profile/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32"/></a>
-    <a href="https://www.hackerrank.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32"/></a>
-    <a href="https://hackerearth.com/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32"/></a>
-    <a href="https://codechef.com/users/sahilsheikh-dev"><img class="social-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32"/></a>
-    <a href="https://topcoder.com/members/sahilsheikh-dev"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="32"/></a>
-  </div>
-</div>
+
+  <a href="https://kaggle.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://codesandbox.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://codepen.io/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://leetcode.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://hackerearth.com/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://codechef.com/users/sahilsheikh-dev">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" style="margin:8px;"/>
+  </a>
+
+  <a href="https://topcoder.com/members/sahilsheikh-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="32" style="margin:8px;"/>
+  </a>
+
+</p>
 
 <br/>
 
